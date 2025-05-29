@@ -4,8 +4,8 @@ Explain your approach in **three sentences only** at top of your code
 
 
 ## Problem1 (https://leetcode.com/problems/subarray-sum-equals-k/)
-# Time Complexity :
-# Space Complexity :
+# Time Complexity : O(n)
+# Space Complexity : O(n)
 # Did this code successfully run on Leetcode : yes
 # Any problem you faced while coding this :  no
 
@@ -27,8 +27,8 @@ class Solution:
         return count
 
 ## Problem2 (https://leetcode.com/problems/contiguous-array/)
-# Time Complexity :
-# Space Complexity :
+# Time Complexity : O(n)
+# Space Complexity : O(n)
 # Did this code successfully run on Leetcode : yes
 # Any problem you faced while coding this :  no
 
@@ -62,8 +62,8 @@ class Solution:
         return max_dist
 
 ## Problem3 (https://leetcode.com/problems/longest-palindrome)
-# Time Complexity :
-# Space Complexity :
+# Time Complexity : O(n)
+# Space Complexity : O(1)
 # Did this code successfully run on Leetcode : yes
 # Any problem you faced while coding this :  no
 
